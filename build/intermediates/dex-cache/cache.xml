@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="H:\DOORGUARDREMOTE\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="H:\DOORGUARDREMOTE\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.3.1_398c8917fd2ad7363ff9c071897cead6b6ad6780\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\DOORGUARDREMOTE\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="H:\DOORGUARDREMOTE\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.3.1_749f421020b9ae0447f8c3f56c27de6e0cf3ee55\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\DOORGUARDREMOTE\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0"
+        sha1="68d74c8e43243dd9137de5a4c1ff5fa6f53e9b92">
+        <dex dex="H:\DOORGUARDREMOTE\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_23c1d4938a31c709cb4d408c76e0733ce294028c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\DOORGUARDREMOTE\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="H:\DOORGUARDREMOTE\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.3.1_51b99ebce31e1b26fe483113cffb96587d3b91b1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SCC\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="H:\DOORGUARDREMOTE\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_80d05f71a0ba17c961c8b8ab59bb1737579461aa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\DOORGUARDREMOTE\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="H:\DOORGUARDREMOTE\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.3.1_3c1145143d07b5856bd881da27acb64ca28bd463\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\DOORGUARDREMOTE\app\build\intermediates\exploded-aar\com.journeyapps\zxing-android-embedded\3.5.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0"
+        sha1="77e3f210322743390ab44e667cc8988ba5d9433b">
+        <dex dex="H:\DOORGUARDREMOTE\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.journeyapps-zxing-android-embedded-3.5.0_888529279a89405b1acc8d153d8a139d23cb6942\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\DOORGUARDREMOTE\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="H:\DOORGUARDREMOTE\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.3.1_f19fc6a739330f7200885d8cd0035d0ec071b167\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\DOORGUARDREMOTE\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="H:\DOORGUARDREMOTE\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.3.1_aab31abafa202d267ce6c2ed22afad6bc8d9d023\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\DOORGUARDREMOTE\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="H:\DOORGUARDREMOTE\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.3.1_c1e2eef93989115a3a9260cb148d772001e8cb86\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\DOORGUARDREMOTE\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0"
+        sha1="f988c0780828c391528a49fc02eb649b78797f31">
+        <dex dex="H:\DOORGUARDREMOTE\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_f142481441aee86140ff1800fcf25a7108307fce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\DOORGUARDREMOTE\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="H:\DOORGUARDREMOTE\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.3.1_349d78ea72a1114bc901cd6cb89c409cafe12e60\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\DOORGUARDREMOTE\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="H:\DOORGUARDREMOTE\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.3.1_0b1442433a9018919b199fe093e3555b133ba3af\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SCC\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\3.3.0\73c49077166faa4c3c0059c5f583d1d7bd1475fe\core-3.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0"
+        sha1="73c49077166faa4c3c0059c5f583d1d7bd1475fe">
+        <dex dex="H:\DOORGUARDREMOTE\app\build\intermediates\transforms\dex\debug\folders\1000\10\core-3.3.0_150a4767844f27bd0402605f815234c4d78f9f42\classes.dex" />
+    </item>
+
+</items>

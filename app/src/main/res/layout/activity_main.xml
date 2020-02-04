@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="@drawable/cover"
+    tools:context="com.example.scc.doorguardremote.MainActivity">
+    <Button
+        android:onClick="getStarted"
+        android:id="@+id/getst"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="230dp"
+        android:text="get started"
+        android:textColor="#FFFFFDFD"
+        android:textSize="30dp"
+        android:gravity="center"
+        android:background="@drawable/border_style"
+        android:layout_width="280dp"
+        android:layout_height="70dp" />
+
+
+    <TextView
+        android:paddingTop="10dp"
+        android:text="________find us on_______"
+        android:textSize="27dp"
+        android:id="@+id/txt"
+        android:textStyle="bold"
+        android:textColor="#e7c817"
+        android:layout_marginTop="100dp"
+        android:layout_below="@+id/getst"
+        android:layout_width="match_parent"
+        android:layout_height="50dp" />
+    <Button
+        android:layout_marginLeft="15dp"
+        android:id="@+id/btn1"
+        android:background="@drawable/facebook2"
+        android:layout_marginTop="20dp"
+        android:layout_below="@+id/txt"
+        android:layout_width="60dp"
+        android:layout_height="60dp" />
+    <Button
+
+        android:id="@+id/btn2"
+        android:layout_marginLeft="15dp"
+        android:layout_toRightOf="@+id/btn1"
+        android:background="@drawable/twitter1"
+        android:layout_marginTop="20dp"
+        android:layout_below="@+id/txt"
+        android:layout_width="60dp"
+        android:layout_height="60dp" />
+    <Button
+
+        android:id="@+id/btn3"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/insta2"
+        android:layout_toRightOf="@+id/btn2"
+        android:layout_below="@+id/txt"
+        android:layout_width="60dp"
+        android:layout_height="60dp" />
+    <Button
+
+        android:id="@+id/btn4"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/gplus2"
+        android:layout_toRightOf="@+id/btn3"
+        android:layout_below="@+id/txt"
+        android:layout_width="60dp"
+        android:layout_height="60dp" />
+
+
+
+
+
+
+
+</RelativeLayout>
